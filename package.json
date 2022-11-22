@@ -24,7 +24,7 @@
     "qr-image": "^3.2.0",
     "qrcode-npm": "0.0.3",
     "sendgrid": "^5.2.3",
-    "socket.io": "^2.0.3",
+    "socket.io": "^2.5.0",
     "underscore": "^1.8.3",
     "wagner-core": "^0.2.0"
   },
